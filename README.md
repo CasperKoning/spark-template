@@ -8,4 +8,4 @@ It also provides a `SampleTest` class which gives an example of how you can crea
 
 ## How to run
 - `sbt assembly`
-- `spark-submit target/scala-2.11/spark-template-assembly-1.0.jar`
+- `spark-submit target/scala-2.12/spark-template-assembly-1.0.jar`
